@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1494854116 source:c:\users\hilal\desktop\plproje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

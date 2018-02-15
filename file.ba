@@ -1,0 +1,17 @@
+int myVar.
+int myVar2.
+move - 8 to myVar.
+move 25 to myVar2. {assigns 25 to myVar}
+move myVar to yourVar. {assigns myVar to yourVar}
+add  345.245 to sum.
+add --12 to sum. {The value of sum increases by 2}
+sub t from total. {The value of total decreases by t}
+out “The result is:”,sum.
+loop -10 times out “*”. {writes 10 stars on the screen}
+int sum.
+move +5 to size.
+loop size times
+[ out size, newline.
+  add size to sum.
+]
+out newline, “Sum:”, sum.

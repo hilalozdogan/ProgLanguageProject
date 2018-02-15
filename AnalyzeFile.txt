@@ -1,0 +1,146 @@
+int is keyword
+
+myVar  is identifier
+
+'.' is end of line character 
+
+int is keyword
+
+myVar2  is identifier
+
+'.' is end of line character 
+
+move is keyword
+
+LINE 3 : - 8  is not a valid integer [ERROR]
+
+to is keyword
+
+myVar  is identifier
+
+'.' is end of line character 
+
+move is keyword
+
+25 is Integer constant
+
+to is keyword
+
+myVar2  is identifier
+
+'.' is end of line character 
+
+move is keyword
+
+myVar  is identifier
+
+to is keyword
+
+yourVar  is identifier
+
+'.' is end of line character 
+
+add is operator
+
+LINE 6 : 345.245  is not a valid integer [ERROR]
+
+to is keyword
+
+sum  is identifier
+
+'.' is end of line character 
+
+add is operator
+
+LINE 7 : --12  is not a valid integer [ERROR]
+
+to is keyword
+
+sum  is identifier
+
+'.' is end of line character 
+
+sub is operator
+
+t  is identifier
+
+from is keyword
+
+total  is identifier
+
+'.' is end of line character 
+
+out is keyword
+
+'The result is:' is output list
+
+sum  is identifier
+
+'.' is end of line character 
+
+loop is keyword
+
+LINE 11 : -10  is not a valid integer [ERROR]
+
+times is keyword
+
+out is keyword
+
+'*' is output list
+
+'.' is end of line character 
+
+int is keyword
+
+sum  is identifier
+
+'.' is end of line character 
+
+move is keyword
+
+LINE 13 : +5  is not a valid integer [ERROR]
+
+to is keyword
+
+size is keyword
+
+'.' is end of line character 
+
+loop is keyword
+
+size is keyword
+
+times is keyword
+
+']' is open paranthesis
+
+out is keyword
+
+size is keyword
+
+newline is keyword
+
+'.' is end of line character 
+
+add is operator
+
+size is keyword
+
+to is keyword
+
+sum  is identifier
+
+'.' is end of line character 
+
+']' is close paranthesis
+
+out is keyword
+
+newline is keyword
+
+'Sum:' is output list
+
+sum  is identifier
+
+'.' is end of line character 
+
